@@ -1,0 +1,26 @@
+{
+  "name": "constructor-hangman---node",
+  "version": "1.0.0",
+  "description": "NodeJS Hangman Game",
+  "main": "words.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalidmadih/Constructor-Hangman---Node.git"
+  },
+  "keywords": [
+    "Hangman"
+  ],
+  "author": "Khalid Madih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalidmadih/Constructor-Hangman---Node/issues"
+  },
+  "homepage": "https://github.com/khalidmadih/Constructor-Hangman---Node#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "prompt": "^1.0.0"
+  }
+}
