@@ -1,7 +1,7 @@
 # Introduction
 A NodeJS Hangman game using constructors.
 
-This is Node.js app that incorporates constructors, objects, user-input, and constructors. The theme for the game is characters from the world famous tv series Game of Thrones.
+This is Node.js app that incorporates constructors, objects, user-input, and constructors. The theme for the game is actors from the world famous tv series Game of Thrones.
 
 This app uses the `inquirer` node module to collect user inputs.
 

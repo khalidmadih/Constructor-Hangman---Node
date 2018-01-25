@@ -1,4 +1,5 @@
-// Variable hosting the list of words
+
+// Variable hosting the list of words to be guessed
 var listOfWords = [
 "sean bean",
 "mark addy",
